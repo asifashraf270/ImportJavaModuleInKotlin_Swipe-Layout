@@ -1,0 +1,4 @@
+include ':swipe-reveal-layout'
+include ':swipe-reveal-layout'
+include ':app'
+rootProject.name = "ImportJavaProjectIntoKotlin"
